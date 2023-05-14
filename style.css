@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+
+
+body {
+    background-color: blueviolet;
+    overflow: hidden;
+}
+
+.nav {
+    background-color: black;
+    color: #c893de;
+    padding: 20px 15px 15px;
+    text-align: center;
+    scale: 2.2;
+}
+
+#my-canvas {
+    border: 5px dotted #000;
+    display: block;
+    margin: 50px auto;
+  }
+  
