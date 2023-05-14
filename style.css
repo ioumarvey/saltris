@@ -8,20 +8,23 @@
 
 
 body {
-    background-color: blueviolet;
+    background-color: black;
     overflow: hidden;
+    scale: 0.9;
 }
 
 .nav {
     background-color: black;
+    border-bottom: 5px dotted blueviolet;
     color: #c893de;
     padding: 20px 15px 15px;
     text-align: center;
-    scale: 2.2;
+    font-size: 2em;
+    scale: 1.5;
 }
 
 #my-canvas {
-    border: 5px dotted #000;
+    border: 5px dotted blueviolet;
     display: block;
     margin: 50px auto;
   }
